@@ -1,3 +1,5 @@
+# Lynn
++ 包含基础算法、数据结构、EeetCode算法等,C语言实现
 # The Algorithms - C # {#mainpage}
 <!-- the suffix in the above line is required for doxygen to consider this as the index page of the generated documentation site -->
 
